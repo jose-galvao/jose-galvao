@@ -4,7 +4,7 @@ Meu nome é José Galvão, sou estudante de Tecnologia em Telemática no IFPB.
 
 Gosto de programar em Python :snake:, atualmente dedico meus estudos à Redes de Computadores e algumas aplicações e estou gostando muito.
 
-No meu tempo livre adoro jogar(🎮), ouvir música :notes:, assistir séries e filmes :tv: e uma boa conversa com os amigos.
+No meu tempo livre adoro jogar 🎮, ouvir música :notes:, assistir séries e filmes :tv: e uma boa conversa com os amigos.
 
  :speech_balloon: Você pode me encontrar em:
 - :mailbox_with_mail: - josesilvestregalvao2012@gmail.com
