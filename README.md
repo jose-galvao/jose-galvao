@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é José Galvão, sou estudante de Tecnologia em Telemática no IFPB.
+Meu nome é José Galvão, sou estudante do IFPB.
 
 Gosto de programar em Python :snake:, atualmente dedico meus estudos à Redes de Computadores e algumas aplicações e estou gostando muito.
 
