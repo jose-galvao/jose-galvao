@@ -65,7 +65,7 @@ Here are some ideas to get you started:
  <!-- Barra superior e inferior --> 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JOSÉ+GALVÃO;I'M+22+YEARS+OLD;I'M+FROM+BRAZIL;I'M+GRADUATED+IN+TECHNOLOGY+IN+TELEMATICS;WELCOME+TO+MY+PAGE+AND+ENJOY!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=OI,+VOCÊ+PODE+ME+CHAMAR+DE+GALVÃO:%29)](https://git.io/typing-svg) 
 
  <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
 <div align="center">  
